@@ -35,4 +35,4 @@ Support for these infections and many more will be added:
 
 1. Clone this repository.
 
-2. Run `model.ipynb`
+2. Run `model.py`
